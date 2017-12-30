@@ -1,0 +1,12 @@
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\obj\Debug\AdressBokProjektet.csprojResolveAssemblyReference.cache
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\obj\Debug\AdressBokProjektet.Form1.resources
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\obj\Debug\AdressBokProjektet.Properties.Resources.resources
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\obj\Debug\AdressBokProjektet.csproj.GenerateResource.Cache
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\obj\Debug\AdressBokProjektet.csproj.CoreCompileInputs.cache
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\bin\Debug\AdressBokProjektet.exe.config
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\bin\Debug\AdressBokProjektet.exe
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\bin\Debug\AdressBokProjektet.pdb
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\obj\Debug\AdressBokProjektet.exe
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\obj\Debug\AdressBokProjektet.pdb
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\obj\Debug\AdressBokProjektet.csproj.ResolveComReference.cache
+C:\Users\martinl\source\repos\AdressBoken\AdressBokProjektet\bin\Debug\ExcelLibrary.dll
